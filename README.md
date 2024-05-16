@@ -27,7 +27,7 @@ To implement an AI agent to play the Duo Othello game on a 12x12 board configura
 
 ## Homework-3: Multi-Layer perceptron
 
-<img src="HW3/HW3.jpeg" width="500">
+<img src="HW3/HW3.jpg" width="500">
 
 To implement a multi-layer perceptron from scratch for a classification problem using the New York housing dataset. The network should train and predict for 10 different train-test splits outperforming the Grader's model under 5 minutes.
 
